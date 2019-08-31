@@ -35,7 +35,9 @@ figcaption{
   margin-left: auto;
 }
 
-
+#details {
+  display:horizontal;
+}
 
 
 
